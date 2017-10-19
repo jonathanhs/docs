@@ -2,6 +2,8 @@
 
 Docker setup for developers and some basic guidelines.
 
+![Docker L](sources/docker-logo-compressed.png "Docker")
+
 ## Install Docker
 
 Please refer to this [documentation](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/) for the latest instruction.
