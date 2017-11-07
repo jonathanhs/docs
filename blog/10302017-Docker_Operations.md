@@ -153,6 +153,11 @@ Run **docker version** to verify docker client is connected to swarm and run **d
 ## Sources
 
 - https://training.docker.com/docker-operations
+- https://docs.docker.com/compose/compose-file/
+- https://docs.docker.com/engine/swarm/secrets/
+- https://docs.docker.com/datacenter/ucp/2.2/guides/
+- https://docs.docker.com/datacenter/dtr/2.4/guides/
+- https://docs.docker.com/engine/security/trust/content_trust/
 
 ------
 
