@@ -26,9 +26,9 @@ for i = 1:m
 	distance = zeros(1, K);
 	for j = 1:K
 		distance(1,j) = sqrt(sum(power((X(i,:)-centroids(j,:)),2)));
-    end
-    [d, d_idx] = min(distance);
-    idx(i,1) = d_idx;
+	end
+	[d, d_idx] = min(distance);
+	idx(i,1) = d_idx;
 end
 
 % =============================================================
